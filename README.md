@@ -2,7 +2,9 @@
 ### I am a Frontend developer
 
 - Location : ShenZhen
-- Blog: [https://funkun.hashnode.dev/](https://funkun.hashnode.dev/)
+- Blog: [https://github.com/vivipure/blog](https://github.com/vivipure/blog)
+- Hashnode: [https://funkun.hashnode.dev/](https://funkun.hashnode.dev/)
+- email: vivipureheart@gmail.com
 
 
 
