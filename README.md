@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Funkun
 
- I am a Frontend developer
+ I am a frontend developer
 
 ###  Info
 - Location : ShenZhen
