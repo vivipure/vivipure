@@ -12,7 +12,9 @@
 ###  Skill
 
 - Program Language: JavaScript, TypeScript, Python, Java
-- Frontend Framework: Vue, React, Svelte[learning]
+- Frontend lib: Vue, React, Solid-js, Svelte[learning]
+- Frontend Framework: Nuxtjs, Nextjs, Astro
+- Building Tools: Vitejs, Webpack
 
 
 
