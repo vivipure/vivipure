@@ -6,7 +6,7 @@
 - Location : ShenZhen
 - Blog: [https://github.com/vivipure/blog](https://github.com/vivipure/blog)
 - TIL: [https://github.com/vivipure/til](https://github.com/vivipure/til)
-- email: vivipureheart@gmail.com
+- Email: vivipureheart@gmail.com
 
 
 ###  Skill
