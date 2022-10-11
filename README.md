@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Fangkun
+## Hi there 👋, my name is Funkun
 
  I am a frontend developer
 
